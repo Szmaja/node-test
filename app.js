@@ -2,7 +2,7 @@
 const http = require('http');
 
 // Define the hostname and port on which the server will listen
-const hostname = '127.0.0.1';
+const hostname = '0.0.0.0';
 const port = 3000;
 
 // Creating a server
